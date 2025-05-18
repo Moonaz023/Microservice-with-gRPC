@@ -1,4 +1,4 @@
-package com.example.orderService;
+package com.example.orderService.grpc;
 
 
 import com.m23itsolution.stock.*;

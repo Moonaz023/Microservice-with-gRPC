@@ -1,5 +1,6 @@
-package com.example.orderService;
+package com.example.orderService.service;
 
+import com.example.orderService.grpc.StockClientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
